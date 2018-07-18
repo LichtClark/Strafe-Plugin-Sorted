@@ -1,0 +1,9 @@
+name: Strafe
+version: beta-version:0.1.3
+author: LichtClarks
+main: eu.clark.main.Main
+
+commands:
+  strafereset:
+    usage: /strafereset 
+    description: Resets strafes
